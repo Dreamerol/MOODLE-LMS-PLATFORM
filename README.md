@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github.com/Dreamerol/Dreamerol/raw/50e0b9ce43817c26444ceaf223fe7e27dbc85b86/ZZZZZEDU.jpg" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/50e0b9ce43817c26444ceaf223fe7e27dbc85b86/ZZZZZEDU.jpg" style="width:100%;" />
 
 
 
