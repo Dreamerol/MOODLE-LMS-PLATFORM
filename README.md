@@ -276,16 +276,14 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 
-
-
-
-
 ---
 
 
-💡 This project demonstrates the practical application of **C++ and OOP principles** to create a **scalable, modular educational platform**, while highlighting problem-solving, algorithmic thinking, and software design skills attractive to recruiters and HR professionals.
+<p align="center">
+💡 This project demonstrates the practical application of <b>C++ and OOP principles</b> to create a <b>scalable, modular educational platform</b>, while highlighting problem-solving, algorithmic thinking, and software design skills attractive to recruiters and HR professionals.
+</p>
 
-
+<br>
 
 <div align="center">
   <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
