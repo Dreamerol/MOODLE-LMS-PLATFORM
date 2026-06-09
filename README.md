@@ -279,7 +279,7 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
-<h2 align="center">⭐ Feel free to explore repositories and give a star if you find them interesting</h2>
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
 
