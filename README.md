@@ -72,6 +72,10 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
+<br>
+
+
+
 ### 🎯 Objectives / Поставени цели
 1. Develop a **functional educational system** in C++  
 2. Apply **OOP principles**: classes, inheritance, polymorphism  
@@ -119,6 +123,11 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
+
+<br>
+
+
+
 ### 📊 Results / Постигнати резултати
 - Fully functional **console-based educational system**  
 - Applied **OOP principles** successfully  
@@ -164,6 +173,10 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
+<br>
+
+
+
 ### 🖥️ Tech Stack
 - 🐍 **Programming Language:** C++17  
 - 📚 **Libraries:** STL, iostream, vector, cmath  
@@ -207,6 +220,12 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 ---
+
+
+
+<br>
+
+
 
 
 ### 💼 Key Skills
