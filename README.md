@@ -33,7 +33,7 @@
 
 
 
-<br>
+
 
 
 
@@ -71,8 +71,6 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 ---
 
-
-<br>
 
 
 
@@ -124,7 +122,6 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 
-<br>
 
 
 
@@ -173,7 +170,7 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
-<br>
+
 
 
 
@@ -223,7 +220,7 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 
-<br>
+
 
 
 
