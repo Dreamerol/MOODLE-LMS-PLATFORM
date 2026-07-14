@@ -278,6 +278,10 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 ---
 
 
+
+<br><br>
+
+
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
@@ -304,10 +308,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 <br><br>
 
-
-
-
----
 
 
 
