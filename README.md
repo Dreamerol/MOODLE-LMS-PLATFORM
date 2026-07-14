@@ -96,7 +96,6 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 - **Modularity:** Structured code for easy extension (grades, notifications, additional features)
 
 
-
 ---
 
 
@@ -195,6 +194,26 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 5. Test and validate functionality using sample data  
 
 
+
+
+---
+
+
+
+
+
+
+### 💼 Key Skills
+- **C++ Programming & OOP**  
+- **Class Design & Inheritance**  
+- **Data Structures & Algorithms**  
+- **Console Application Development**  
+- **Debugging & Testing**  
+- **Problem-Solving & Logical Thinking**  
+
+
+
+
 ---
 
 
@@ -214,26 +233,6 @@ By working on this project, I gained hands-on experience in **C++ programming**,
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
-
-
----
-
-
-
-
-
-
-
-
-### 💼 Key Skills
-- **C++ Programming & OOP**  
-- **Class Design & Inheritance**  
-- **Data Structures & Algorithms**  
-- **Console Application Development**  
-- **Debugging & Testing**  
-- **Problem-Solving & Logical Thinking**  
-
-
 
 
 ---
