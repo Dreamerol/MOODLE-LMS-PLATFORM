@@ -9,9 +9,9 @@
 
 
 
+<br>
 
 
----
 
 ## 📖 Project Story / История на проекта
 In today’s fast-paced educational environment, efficiently managing students, courses, and academic operations is a challenge. Inspired by platforms like **Moodle**, this project was created to **combine software development skills with educational management concepts**.  
