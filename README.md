@@ -256,7 +256,11 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 
+
+
 <br>
+
+
 
 
 
@@ -266,20 +270,39 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 
 
 
+
+
+
+
+
+
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
-
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a>
 </p>
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -362,6 +385,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 </tr>
 </table>
+
+
+
 
 
 
