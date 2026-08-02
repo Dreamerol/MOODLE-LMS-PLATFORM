@@ -13,6 +13,8 @@
 ## <p align="center"><strong><em style="font-size: 160%;">Simplified Moodle-like platform to manage students, users, and academic operations using C++ and Object-Oriented Programming (OOP)</em></strong></p>
 
 
+
+
 <div align="center">
   <a href="https://github.com/Dreamerol/CARDFOLIO">
     <img
@@ -22,7 +24,6 @@
     />
   </a>
 </div>
-
 
 
 
