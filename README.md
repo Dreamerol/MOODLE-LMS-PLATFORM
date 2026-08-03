@@ -67,7 +67,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-#№# 📖 Project Story / История на проекта
+### 📖 Project Story / История на проекта
 In today’s fast-paced educational environment, efficiently managing students, courses, and academic operations is a challenge. Inspired by platforms like **Moodle**, this project was created to **combine software development skills with educational management concepts**.  
 
 The goal was to build a **simplified, yet functional Moodle-like system** using **C++ and Object-Oriented Programming (OOP)**. The project demonstrates how **modular design, class inheritance, and encapsulation** can be applied to solve real-world problems, while also highlighting skills in **algorithm implementation, data structures, and software design patterns**.  
