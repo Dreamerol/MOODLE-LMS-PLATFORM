@@ -206,8 +206,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
 
+<div align="left">
 
 
 
@@ -338,6 +340,20 @@ By working on this project, I gained hands-on experience in **C++ programming**,
 - **Console Application Development**  
 - **Debugging & Testing**  
 - **Problem-Solving & Logical Thinking**  
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
 
 
 
